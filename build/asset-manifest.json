@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/github_test/static/css/main.3dd9d022.chunk.css",
+    "main.js": "/github_test/static/js/main.ce89e4d2.chunk.js",
+    "main.js.map": "/github_test/static/js/main.ce89e4d2.chunk.js.map",
+    "runtime-main.js": "/github_test/static/js/runtime-main.b585b08f.js",
+    "runtime-main.js.map": "/github_test/static/js/runtime-main.b585b08f.js.map",
+    "static/js/2.35e9d415.chunk.js": "/github_test/static/js/2.35e9d415.chunk.js",
+    "static/js/2.35e9d415.chunk.js.map": "/github_test/static/js/2.35e9d415.chunk.js.map",
+    "static/js/3.cc524b50.chunk.js": "/github_test/static/js/3.cc524b50.chunk.js",
+    "static/js/3.cc524b50.chunk.js.map": "/github_test/static/js/3.cc524b50.chunk.js.map",
+    "index.html": "/github_test/index.html",
+    "static/css/main.3dd9d022.chunk.css.map": "/github_test/static/css/main.3dd9d022.chunk.css.map",
+    "static/js/2.35e9d415.chunk.js.LICENSE.txt": "/github_test/static/js/2.35e9d415.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/github_test/static/media/background.739617fe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b585b08f.js",
+    "static/js/2.35e9d415.chunk.js",
+    "static/css/main.3dd9d022.chunk.css",
+    "static/js/main.ce89e4d2.chunk.js"
+  ]
+}
